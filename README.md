@@ -1,4 +1,4 @@
-## Hello, This is 'jiminAn' github(JIMIN AN, 23, 🇰🇷)
+## HELLO! This is my github(JIMIN AN, 23, 🇰🇷)
 > 💻 Interested in **Mobile Application** and **Deep Learning**, **Machine Learning**<br>
 > 🔥 Develpoed several **Mobile Apps**, **Website with CNN Project** and Studying the **Deep Leaning** and **Algorithm**<br>
  
