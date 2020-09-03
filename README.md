@@ -14,7 +14,4 @@
 
 
 ![JiminAn's github stats](https://github-readme-stats.vercel.app/api?username=JiminAn&show_icons=true)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JiminAn/)](https://www.linkedin.com/in/JiminAn/) 
-
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/haero_kim/)](https://www.instagram.com/jimim1120/)
