@@ -19,6 +19,5 @@
 
 
 ![JiminAn's github stats](https://github-readme-stats.vercel.app/api?username=JiminAn&show_icons=true)  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={als398})](https://solved.ac/{als398})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=als398)](https://solved.ac/als398)  
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/haero_kim/)](https://www.instagram.com/jimim1120/)
