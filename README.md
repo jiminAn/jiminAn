@@ -19,3 +19,5 @@
 
 
 ![JiminAn's github stats](https://github-readme-stats.vercel.app/api?username=JiminAn&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiminAn&layout=compact)](https://github.com/jiminAn/github-readme-stats)
