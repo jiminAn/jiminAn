@@ -1,6 +1,6 @@
 ## HELLO!(JIMIN AN, 24, 🇰🇷)
-> 💻 Interested in **AI** and **Android app**, especially **Deep Learning** and **NLP**<br>
-> 🔥 Developed several **AI Project with Python**, **Android app with java**<br>
+> 💻 Interested in **AI**, especially **Deep Learning** and **NLP**<br>
+> 🔥 Currently working at **NCSOFT** for **Language AI Research**
  
 ### Languages and Frameworks
 
