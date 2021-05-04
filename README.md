@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Jimin An%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JiminAn%20%20&height=200&fontSize=100)
 ## HELLO! (JIMIN AN, 24, 🇰🇷)
 > 🔥 AI Developer<br>
 > Interested in **AI**, especially **Deep Learning** and **NLP**<br>
