@@ -6,12 +6,12 @@
 
 
 ![JiminAn's github stats](https://github-readme-stats.vercel.app/api?username=JiminAn&show_icons=true&theme=dracula)  
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={als398})](https://solved.ac/{als398})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=als398)](https://solved.ac/als398)
 
 ### Programming Language Skills
 <img src="https://img.shields.io/badge/python-fluent-blue"/></a>
 <img src="https://img.shields.io/badge/c++-fluent-blue"/></a>
-<img src="https://img.shields.io/badge/c-fluent-blue"/></a>&nbsp 
-<img src="https://img.shields.io/badge/java-advanced-green"/></a>&nbsp 
+<img src="https://img.shields.io/badge/c-fluent-blue"/></a><br>
+<img src="https://img.shields.io/badge/java-advanced-green"/>
 
  
