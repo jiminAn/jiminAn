@@ -2,6 +2,7 @@
 ## HELLO! (JIMIN AN, 24, 🇰🇷)
 > 🔥 AI Developer<br>
 > Interested in **AI**, especially **Deep Learning** and **NLP**<br>
+> [Who am I(CV)](https://codingsmu.tistory.com/m/80)<br>
 > 💻 Currently working at **NCSOFT** for **Language AI Research**
 
 ### Programming Skills
