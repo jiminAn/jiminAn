@@ -9,6 +9,6 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={als398})](https://solved.ac/{als398})
 
 ### Programming Skills
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/{python}?style={style}&logo={logo_name}&logoColor=white"/></a>&nbsp 
 
  
