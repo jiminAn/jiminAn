@@ -2,7 +2,7 @@
 ## HELLO! (JIMIN AN, 24, 🇰🇷)
 > AI Developer : [Who am I(CV)](https://codingsmu.tistory.com/m/80)<br>
 > 🔥 Interested in **AI**, especially **Deep Learning** and **NLP**<br>
-> 💻 Currently working at **NCSOFT** for **Language AI Research**
+> 💻 2021 January-July, **NCSOFT, NLP Center, Language AI Lab:  Intern, Working as a Language AI Research in Machine Translation Date team** 
 
 ### Programming Skills
 <img src="https://img.shields.io/badge/python-fluent-blue"/></a>
