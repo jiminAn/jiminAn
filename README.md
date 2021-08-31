@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/python-fluent-blue"/></a>
 <img src="https://img.shields.io/badge/c++-fluent-blue"/></a>
 <img src="https://img.shields.io/badge/c-fluent-blue"/></a>
-<img src="https://img.shields.io/badge/java-advanced-green"/><br>
+<img src="https://img.shields.io/badge/java-advanced-orange"/><br>
 
 **Deep Learning Libraries**
 <img src="https://img.shields.io/badge/tensorflow-advanced-orange"/></a>
