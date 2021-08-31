@@ -22,14 +22,14 @@
 <img src="https://img.shields.io/badge/java-advanced-green"/><br>
 
 **Deep Learning Libraries**
-<img src="https://img.shields.io/badge/tensorflow-advanced-gray"/></a>
-<img src="https://img.shields.io/badge/pytorch-advanced-green"/></a>
+<img src="https://img.shields.io/badge/tensorflow-advanced-orange"/></a>
+<img src="https://img.shields.io/badge/pytorch-advanced-orange"/></a>
 <img src="https://img.shields.io/badge/keras-advanced-orange"/><br>
 
 **Data Manipulation and analysis Libraries**
-<img src="https://img.shields.io/badge/Pandas-advanced-green"/></a>
-<img src="https://img.shields.io/badge/Numpy-advanced-green"/></a>
-<img src="https://img.shields.io/badge/Matplotlib-advanced-green"/><br>
+<img src="https://img.shields.io/badge/Pandas-advanced-orange"/></a>
+<img src="https://img.shields.io/badge/Numpy-advanced-orange"/></a>
+<img src="https://img.shields.io/badge/Matplotlib-advanced-orange"/><br>
 
 # Algorithm
 ---------------------------
