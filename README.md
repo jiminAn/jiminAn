@@ -1,6 +1,6 @@
 
 # HELLO! (JIMIN AN, 24, 🇰🇷)
-> AI Developer, Especially Interested in Natural Language Processing<br>
+> AI Developer, Especially Interested in **Natural Language Processing**<br>
 > For more detailed information, click 💁[Who am I(CV)](https://codingsmu.tistory.com/m/80)<br>
 <br>
 
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/pytorch-advanced-orange"/></a>
 <img src="https://img.shields.io/badge/keras-advanced-orange"/><br>
 
-**Data Manipulation and analysis Libraries**<br><br>
+**Data Manipulation and Analysis Libraries**<br><br>
 <img src="https://img.shields.io/badge/Pandas-advanced-orange"/></a>
 <img src="https://img.shields.io/badge/Numpy-advanced-orange"/></a>
 <img src="https://img.shields.io/badge/Matplotlib-advanced-orange"/><br>
