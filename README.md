@@ -1,10 +1,10 @@
 
-## HELLO! (JIMIN AN, 24, 🇰🇷)
+# HELLO! (JIMIN AN, 24, 🇰🇷)
 > AI Developer : [Who am I(CV)](https://codingsmu.tistory.com/m/80)<br>
 > 🔥 Interested in **AI**, especially **Deep Learning** and **NLP**<br>
 <br>
 
-# Education & Programming Experience
+## Education & Programming Experience
 |  TYPE    | TERM     |  DETAILS   |  CURRENT POSITION |
 | ---- | ---- | ---- | ---- |
 | EDUCATION    |  2018.03-2022.08(Candidate)    |  SangMyung Univ., **Bachelor of Science in Computer Science**    | ✋ |
@@ -13,7 +13,7 @@
 
 
 
-# Skills
+## Skills
 ----------------------------
 **Programming Languages**
 <img src="https://img.shields.io/badge/python-fluent-blue"/></a>
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Numpy-advanced-orange"/></a>
 <img src="https://img.shields.io/badge/Matplotlib-advanced-orange"/><br>
 
-# Projects
+## Projects
 ----------------------------
 
 
@@ -43,9 +43,8 @@
 | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=F1E05A&logo=linux&logoColor=FFFFFF)](https://www.kernel.org/)| [![BlackJack Game](https://img.shields.io/static/v1?label=&message=BlackJack_Game&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jiminAn/SOCKET_Blackjack_game)  [![Subway Navigation](https://img.shields.io/static/v1?label=&message=Subway_Navigation&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jiminAn/Subway_navigation)|
 
 
-<a href="https://github.com/201411108"/>
 
-# Algorithm
+## Algorithm
 ---------------------------
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=als398)](https://solved.ac/als398)
 
