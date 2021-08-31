@@ -33,9 +33,7 @@
 
 # Projects
 ----------------------------
-### ⌨️ Projects
 
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
 
 | **Technology**                                             | REPOSITORY                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -43,7 +41,6 @@
 | [![Computer Vision](https://img.shields.io/static/v1?label=&message=CV&color=3178C6&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![Hand Writing Correction Website](https://img.shields.io/static/v1?label=&message=Hand_Writing_Correction_Website&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jiminAn/hand_writing_correction_website)  [![GAN Style Transfer](https://img.shields.io/static/v1?label=&message=GAN_Style_Transfer&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jiminAn/GAN-style-transfer)|
 | [![Natural Language Processing](https://img.shields.io/static/v1?label=&message=NLP&color=3178C6&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![K-pop Recommendation Program](https://img.shields.io/static/v1?label=&message=Kpop_Recommendation_Program&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jiminAn/Kpop_NLP_Project)|
 | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=F1E05A&logo=linux&logoColor=FFFFFF)](https://www.kernel.org/)| [![BlackJack Game](https://img.shields.io/static/v1?label=&message=BlackJack_Game&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jiminAn/SOCKET_Blackjack_game)  [![Subway Navigation](https://img.shields.io/static/v1?label=&message=Subway_Navigation&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jiminAn/Subway_navigation)|
-| <!-- END OF PROFILE STACK, DO NOT REMOVE -->                 |                                                              |
 
 
 <a href="https://github.com/201411108"/>
