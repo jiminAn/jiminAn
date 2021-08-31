@@ -5,6 +5,7 @@
 <br>
 
 ## Education & Programming Experience
+--------------------------------
 |  TYPE    | TERM     |  DETAILS   |  CURRENT POSITION |
 | ---- | ---- | ---- | ---- |
 | EDUCATION    |  2018.03-2022.08(Candidate)    |  SangMyung Univ., **Bachelor of Science in Computer Science**    | ✋ |
