@@ -1,6 +1,6 @@
 
 # HELLO! (JIMIN AN, 24, 🇰🇷)
-> AI Developer, Expecially Interested in Natural Language Processing
+> AI Developer, Expecially Interested in Natural Language Processing<br>
 > For more detailed information, click  🙎[Who am I(CV)](https://codingsmu.tistory.com/m/80)<br>
 <br>
 
