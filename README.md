@@ -2,8 +2,9 @@
 ## HELLO! (JIMIN AN, 24, 🇰🇷)
 > AI Developer : [Who am I(CV)](https://codingsmu.tistory.com/m/80)<br>
 > 🔥 Interested in **AI**, especially **Deep Learning** and **NLP**<br>
+<br>
 
-# Education & Work Experience
+# Experience
 |  TYPE    | TERM     |  DETAILS   |  CURRENT POSITION |
 | ---- | ---- | ---- | ---- |
 | EDUCATION    |  2018.03-2022.08(Candidate)    |  Bachelor of Science in Computer Science    | ✋ |
