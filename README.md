@@ -46,7 +46,8 @@
 
 ## Algorithm
 ---------------------------
- [![Algorithm](https://img.shields.io/static/v1?label=&message=Algorithm&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jiminAn/Algorithm)
+ [![Algorithm](https://img.shields.io/static/v1?label=&message=Algorithm&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jiminAn/Algorithm)<br>
+
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=als398)](https://solved.ac/als398)
 
 
