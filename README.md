@@ -15,21 +15,21 @@
 
 # Skills
 ----------------------------
-### Programming Languages
+**Programming Languages**
 <img src="https://img.shields.io/badge/python-fluent-blue"/></a>
 <img src="https://img.shields.io/badge/c++-fluent-blue"/></a>
 <img src="https://img.shields.io/badge/c-fluent-blue"/></a>
-<img src="https://img.shields.io/badge/java-advanced-green"/>
+<img src="https://img.shields.io/badge/java-advanced-green"/><br>
 
-### Deep Learning Libraries
-<img src="https://img.shields.io/badge/tensorflow-advanced-green"/></a>
+**Deep Learning Libraries**
+<img src="https://img.shields.io/badge/tensorflow-advanced-gray"/></a>
 <img src="https://img.shields.io/badge/pytorch-advanced-green"/></a>
-<img src="https://img.shields.io/badge/keras-advanced-green"/></a>
+<img src="https://img.shields.io/badge/keras-advanced-orange"/><br>
 
-### Data Manipulation and analysis Libraries
+**Data Manipulation and analysis Libraries**
 <img src="https://img.shields.io/badge/Pandas-advanced-green"/></a>
 <img src="https://img.shields.io/badge/Numpy-advanced-green"/></a>
-<img src="https://img.shields.io/badge/Matplotlib-advanced-green"/></a>
+<img src="https://img.shields.io/badge/Matplotlib-advanced-green"/><br>
 
 # Algorithm
 ---------------------------
