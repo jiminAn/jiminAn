@@ -11,7 +11,6 @@
 |  CLUB    |    2020.01~2020.12  | Programming Central club, INYRO, **President**     |
 
 
-> 💻 2021 January-July, **NCSOFT, NLP Center, Language AI Lab:  Intern, Working as a Language AI Research in Machine Translation Date team** 
 
 # Skills
 ----------------------------
