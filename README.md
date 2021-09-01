@@ -8,9 +8,9 @@
 --------------------------------
 |  TYPE    | TERM     |  DETAILS   |  CURRENT POSITION |
 | :----: | :----: | :----: | :----: |
-| EDUCATION    |  2018.03-2022.08(Candidate)    |  SangMyung Univ., **Bachelor of Science in Computer Science**    | ✋ |
+| EDUCATION    |  2018.03-2022.08(Candidate)    |  SangMyung Univ., <br> **Bachelor of Science in Computer Science**    | ✋ |
 | WORK     |   2021.01~2021.07   |  NC Soft Corp., NLP Center, <br>**Working as Language AI Research Intern** | |
-| CLUB    |    2020.01~2020.12  | INYRO, Programming Central club, **President**     | |
+| CLUB    |    2020.01~2020.12  | INYRO, Programming Central club, <br>**President**     | |
 
 
 
