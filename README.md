@@ -26,7 +26,7 @@
 **Deep Learning Libraries**<br><br>
 <img src="https://img.shields.io/badge/tensorflow-fluent-red"/></a>
 <img src="https://img.shields.io/badge/pytorch-fluent-red"/></a>
-<img src="https://img.shields.io/badge/keras-fluent-red"/></a>
+<img src="https://img.shields.io/badge/keras-fluent-red"/></a><br>
 <img src="https://img.shields.io/badge/ScikitLearn-advanced-blue"/></a>
 <img src="https://img.shields.io/badge/NLTK-advanced-blue"/></a>
 <img src="https://img.shields.io/badge/Pandas-advanced-blue"/></a>
