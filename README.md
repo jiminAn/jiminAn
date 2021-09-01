@@ -17,9 +17,9 @@
 ## Skills
 ----------------------------
 **Programming Languages**<br><br>
-<img src="https://img.shields.io/badge/python-fluent-blue"/></a>
-<img src="https://img.shields.io/badge/c++-fluent-blue"/></a>
-<img src="https://img.shields.io/badge/c-fluent-blue"/></a>
+<img src="https://img.shields.io/badge/python-fluent-red"/></a>
+<img src="https://img.shields.io/badge/c++-fluent-red"/></a>
+<img src="https://img.shields.io/badge/c-fluent-red"/></a>
 <img src="https://img.shields.io/badge/java-advanced-orange"/><br>
 
 **Deep Learning Libraries**<br><br>
