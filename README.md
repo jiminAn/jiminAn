@@ -24,14 +24,15 @@
 <img src="https://img.shields.io/badge/kotlin-basic-green"/><br>
 
 **Deep Learning Libraries**<br><br>
-<img src="https://img.shields.io/badge/tensorflow-advanced-blue"/></a>
-<img src="https://img.shields.io/badge/pytorch-advanced-blue"/></a>
-<img src="https://img.shields.io/badge/keras-advanced-blue"/><br>
-
-**Data Manipulation and Analysis Libraries**<br><br>
+<img src="https://img.shields.io/badge/tensorflow-fluent-red"/></a>
+<img src="https://img.shields.io/badge/pytorch-fluent-red"/></a>
+<img src="https://img.shields.io/badge/keras-fluent-red"/><br>
+<img src="https://img.shields.io/badge/ScikitLearn-advanced-blue"/></a>
+<img src="https://img.shields.io/badge/NLTK-advanced-blue"/></a>
 <img src="https://img.shields.io/badge/Pandas-advanced-blue"/></a>
 <img src="https://img.shields.io/badge/Numpy-advanced-blue"/></a>
-<img src="https://img.shields.io/badge/Matplotlib-advanced-blue"/><br>
+<img src="https://img.shields.io/badge/Matplotlib-advanced-blue"/>
+<img src="https://img.shields.io/badge/Searborn-basic-green"/><br>
 
 ## Projects
 ----------------------------
