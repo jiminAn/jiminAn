@@ -20,18 +20,18 @@
 <img src="https://img.shields.io/badge/python-fluent-red"/></a>
 <img src="https://img.shields.io/badge/c++-fluent-red"/></a>
 <img src="https://img.shields.io/badge/c-fluent-red"/></a>
-<img src="https://img.shields.io/badge/java-advanced-violet"/>
+<img src="https://img.shields.io/badge/java-advanced-blue"/>
 <img src="https://img.shields.io/badge/kotlin-basic-green"/><br>
 
 **Deep Learning Libraries**<br><br>
-<img src="https://img.shields.io/badge/tensorflow-advanced-violet"/></a>
-<img src="https://img.shields.io/badge/pytorch-advanced-violet"/></a>
-<img src="https://img.shields.io/badge/keras-advanced-violet"/><br>
+<img src="https://img.shields.io/badge/tensorflow-advanced-blue"/></a>
+<img src="https://img.shields.io/badge/pytorch-advanced-blue"/></a>
+<img src="https://img.shields.io/badge/keras-advanced-blue"/><br>
 
 **Data Manipulation and Analysis Libraries**<br><br>
-<img src="https://img.shields.io/badge/Pandas-advanced-violet"/></a>
-<img src="https://img.shields.io/badge/Numpy-advanced-violet"/></a>
-<img src="https://img.shields.io/badge/Matplotlib-advanced-violet"/><br>
+<img src="https://img.shields.io/badge/Pandas-advanced-blue"/></a>
+<img src="https://img.shields.io/badge/Numpy-advanced-blue"/></a>
+<img src="https://img.shields.io/badge/Matplotlib-advanced-blue"/><br>
 
 ## Projects
 ----------------------------
