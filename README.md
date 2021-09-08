@@ -14,7 +14,6 @@
 | CLUB    |    2020.01~2020.12  | INYRO, Programming Central club, <br>**President**     | |
 
 
-
 ## Skills
 ----------------------------
 **Programming Languages**<br><br>
