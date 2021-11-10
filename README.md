@@ -55,12 +55,3 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=als398)](https://solved.ac/als398)
 
-
-
-
-
-
-
-
-
- 
