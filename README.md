@@ -15,26 +15,6 @@
 | CLUB    |    2020.01~2020.12  | INYRO, Programming Central club, <br>**President**     | |
 
 
-## Skills
-----------------------------
-**Programming Languages**<br><br>
-<img src="https://img.shields.io/badge/python-fluent-red"/></a>
-<img src="https://img.shields.io/badge/c++-fluent-red"/></a>
-<img src="https://img.shields.io/badge/c-fluent-red"/></a>
-<img src="https://img.shields.io/badge/java-advanced-blue"/>
-<img src="https://img.shields.io/badge/kotlin-basic-green"/><br>
-
-**Deep Learning Libraries**<br><br>
-<img src="https://img.shields.io/badge/tensorflow-fluent-red"/></a>
-<img src="https://img.shields.io/badge/pytorch-fluent-red"/></a>
-<img src="https://img.shields.io/badge/keras-fluent-red"/></a>
-<img src="https://img.shields.io/badge/NLTK-fluent-red"/></a><br>
-<img src="https://img.shields.io/badge/ScikitLearn-advanced-blue"/></a>
-<img src="https://img.shields.io/badge/Pandas-advanced-blue"/></a>
-<img src="https://img.shields.io/badge/Numpy-advanced-blue"/></a>
-<img src="https://img.shields.io/badge/Matplotlib-advanced-blue"/>
-<img src="https://img.shields.io/badge/Searborn-basic-green"/><br>
-
 ## Projects
 ----------------------------
 
