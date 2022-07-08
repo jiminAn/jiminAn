@@ -10,7 +10,7 @@
 |  TYPE    | TERM     |  DETAILS   |  CURRENT POSITION |
 | :----: | :----: | :----: | :----: |
 | EDUCATION    |  2018.03-2022.08   |  SangMyung Univ., <br> **B.S in Computer Science**    |  |
-| EDUCATION    |  2022.09~   |  Sungkyunkwan Univ., <br> **M.S Student in Artificial Intelligence**    | ✋ |
+|     |  2022.09~   |  Sungkyunkwan Univ., <br> **M.S Student in Artificial Intelligence**    | ✋ |
 | WORK     |   2022.01~2021.06   |  Sungkyunkwan Univ., <br>Information & Intelligence System LAB, <br>**Undergraduate Intern** |  |
 |      |   2021.01~2021.07   |  NC Soft Corp., NLP Center, <br>**Working as Language AI Research Intern** | |
 | CLUB    |    2020.01~2020.12  | INYRO, Programming Central club, <br>**President**     | |
