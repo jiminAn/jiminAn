@@ -1,7 +1,7 @@
 
 # HELLO! (JIMIN AN, 🇰🇷)
 > NLP Developer, Especially Interested in **Text Generation**<br>
-> For more detailed information, click 💁[Who am I(CV)](https://codingsmu.tistory.com/m/80)<br>
+> For more detailed information, click 💁[Who am I(CV)](https://github.com/jiminAn/CV/blob/main/CV_20220724.pdf)<br>
 > Also, My Tech Blog here,  💻[CodingSMU](https://codingsmu.tistory.com/)<br>
 <br>
 
