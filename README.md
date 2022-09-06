@@ -30,9 +30,3 @@
 
 
 
-
-## Algorithm
----------------------------
-[![LSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=als398)](https://solved.ac/profile/als398)
-
-
