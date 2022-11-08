@@ -1,9 +1,24 @@
+<p align="left">    
+<a href="https://github.com/jiminAn">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=25&color=18F758&duration=2000&pause=100&multiline=true&width=500&height=80&lines=JiminAn;AI Researcher+%7C+NLP Engineer" alt="Typing SVG" />
+</a>
+<br/>
 
-# HELLO! (JIMIN AN, 🇰🇷)
+
+
+<a href="https://github.com/jiminAn">
+    <img src="https://github-stats-alpha.vercel.app/api?username=jiminAn&cc=22272e&tc=18F758&ic=fff&bc=0000">
+  
+
 > Studying ML and NLP, Especially Interested in **Text Generation** and **Prompt-based Learning**<br>
+> How to reach me: als398@g.skku.edu <br>
 > For more detailed information, please see [CV](https://github.com/jiminAn/CV/blob/main/CV_jiminAn.pdf) or [LinkedIn](https://www.linkedin.com/in/%EC%A7%80%EB%AF%BC-%EC%95%88-a4468822a/)<br>
 > Also, My Tech Blog here,  💻[CodingSMU](https://codingsmu.tistory.com/)<br>
 <br>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiminAn) 
+
 
 ## Education & Programming Experience
 --------------------------------
@@ -27,6 +42,3 @@
 | [![Natural Language Processing](https://img.shields.io/static/v1?label=&message=NLP&color=3178C6&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![K-pop Recommendation Program](https://img.shields.io/static/v1?label=&message=Kpop_Recommendation_Program&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jiminAn/Kpop_NLP_Project) [![NLP task](https://img.shields.io/static/v1?label=&message=NLP_Task&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/nc-nlp/nlp_task)   [![AI emotion card](https://img.shields.io/static/v1?label=&message=AI_emotion_card&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jiminAn/Capstone_2022) |
 | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=F1E05A&logo=linux&logoColor=FFFFFF)](https://www.kernel.org/)| [![BlackJack Game](https://img.shields.io/static/v1?label=&message=BlackJack_Game&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jiminAn/SOCKET_Blackjack_game)  [![Subway Navigation](https://img.shields.io/static/v1?label=&message=Subway_Navigation&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jiminAn/Subway_navigation)|
 | [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=FF0000&logo=Flask&logoColor=FFFFFF)](https://www.kernel.org/)| [![CoinAutoTrading](https://img.shields.io/static/v1?label=&message=CoinAutoTrading&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jiminAn/Coin_Auto_Trading)|
-
-
-
