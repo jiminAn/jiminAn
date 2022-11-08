@@ -1,10 +1,3 @@
-<p align="left">    
-<a href="https://github.com/jiminAn">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=25&color=18F758&duration=2000&pause=100&multiline=true&width=500&height=80&lines=JiminAn;AI Researcher+%7C+NLP Engineer" alt="Typing SVG" />
-</a>
-<br/>
-
-
 
 <a href="https://github.com/jiminAn">
     <img src="https://github-stats-alpha.vercel.app/api?username=jiminAn&cc=22272e&tc=18F758&ic=fff&bc=0000">
