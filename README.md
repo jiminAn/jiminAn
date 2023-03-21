@@ -5,7 +5,7 @@
 
 > Studying ML and NLP, Especially Interested in **Text Generation** and **Prompt-based Learning**<br>
 > How to reach me: als398@g.skku.edu <br>
-> For more detailed information, please see [CV](https://github.com/jiminAn/CV/blob/main/CV_jiminAn.pdf) or [LinkedIn](https://www.linkedin.com/in/%EC%A7%80%EB%AF%BC-%EC%95%88-a4468822a/)<br>
+> For more detailed information, please refer to my [CV](https://github.com/jiminAn/CV/blob/main/CV_jiminAn.pdf) or [LinkedIn](https://www.linkedin.com/in/%EC%A7%80%EB%AF%BC-%EC%95%88-a4468822a/)<br>
 > Also, My Tech Blog here,  💻[CodingSMU](https://codingsmu.tistory.com/)<br>
 <br>
 
