@@ -1,13 +1,14 @@
 
 <a href="https://github.com/jiminAn">
-    <img src="https://github-stats-alpha.vercel.app/api?username=jiminAn&cc=22272e&tc=18F758&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=jiminAn&cc=22272e&tc=11b1cc&ic=fff&bc=0000">
   
-
+[![Hits](https://hits.sh/github.com/jiminAn.svg?view=today-total&style=flat-square&color=11b1cc)](https://hits.sh/github.com/jiminAn/)
 > Studying ML and NLP, Especially Interested in **Text Generation** and **Prompt-based Learning**<br>
 > How to reach me: als398@g.skku.edu <br>
 > For more detailed information, please refer to my [CV](https://github.com/jiminAn/CV/blob/main/CV_jiminAn.pdf) or [LinkedIn](https://www.linkedin.com/in/%EC%A7%80%EB%AF%BC-%EC%95%88-a4468822a/)<br>
 > Also, My Tech Blog here,  💻[CodingSMU](https://codingsmu.tistory.com/)<br>
 <br>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiminAn) 
 
