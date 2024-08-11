@@ -15,7 +15,7 @@
 | :----: | :----: | :----: | :----: |
 | EDUCATION    |  2018.03-2022.08   |  SangMyung Univ., <br> **B.S in Computer Science**    |  |
 |     |  2022.09~2024.08   |  Sungkyunkwan Univ., <br> **M.S in Artificial Intelligence**    |  |
-|   WORK EXPERIENCE    |   2021.01~2021.07   |  NC Soft Corp., NLP Center | |
+|   WORK EXPERIENCE    |   2021.01~2021.07   |  NC Soft Corp., Language AI Lab | |
 |     |  2024.08~   |  KT Corp., AI Tech Lab     | ✋ |
 | CLUB    |    2020.01~2020.12  | INYRO, Programming Central club, <br>**President**     | |
 
